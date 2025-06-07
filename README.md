@@ -1,4 +1,5 @@
 # QuickMeet Frontend
+test
 
 Vue 3로 개발된 즉흥 약속 앱 QuickMeet의 프론트엔드입니다.
 
